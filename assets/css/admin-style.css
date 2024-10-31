@@ -1,0 +1,7 @@
+.form-table tr th{
+    width: 30%;
+}
+.paone_error{
+    color: red;
+    font-size: 12px;
+}
